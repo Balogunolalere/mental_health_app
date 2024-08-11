@@ -36,8 +36,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Balogunolalere/mental-health-management-app.git
-   cd mental-health-management-app
+   git clone https://github.com/Balogunolalere/mental_health_app.git
+   cd mental_health_app
    ```
 
 2. Create and activate a virtual environment:
